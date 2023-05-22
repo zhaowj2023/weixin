@@ -28,6 +28,19 @@ const TEMPLATE_CONFIG = [
       课表:{{course_schedule.DATA}}
     `
   },
+   {
+    id: '0003',
+    title: '老婆的专属课表',
+    desc: `
+      **{{date.DATA}}**
+      
+      ---
+      
+      课表:{{course_schedule.DATA}}
+      
+      ---
+    `
+  },
   {
     id: '0002',
     title: '推送完成提醒',
