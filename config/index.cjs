@@ -258,9 +258,9 @@ const USER_CONFIG = {
       },
     },
     {
-      name: '小秋2',
-      id: 'SCT210880Tv3h5GTBYJWNNQ3P6yzJdMnY5需要修改',
-      useTemplateId: '0001',
+      name: '课表',
+      id: 'SCT210880Tv3h5GTBYJWNNQ3P6yzJdMnY5',
+      useTemplateId: '0003',
       province: '江苏',
       city: '徐州',
       horoscopeDate: '01-05',
